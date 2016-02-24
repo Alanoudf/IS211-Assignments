@@ -1,0 +1,219 @@
+nav ul li{
+
+display:inline;
+position: relative;
+left: 200px;
+margin: 40px;
+text-align: center;
+color:white;
+
+
+}
+
+header {
+
+height:350px;
+background-color: orange;
+background-img: linear-gradient(#ff9933, #ff9923)
+}
+
+section {
+  position:relative;
+  bottom:250px;
+  left: 200px;
+
+
+}
+input{
+position:relative;
+left: 850px;
+top:30px;
+}
+.container{
+width:800px;
+height:400px;
+background-color: black;
+
+
+}
+
+.img img{
+width:480px;
+height:400px;
+}
+.img{
+width:500px;
+height:400px;
+float:left;
+}
+
+
+.text{
+width:200px;
+height:400px;
+float:left;
+
+
+
+}
+ h3{
+   color: white;
+   text-align: center;
+ }
+ #pic {
+   color:orange;
+ }
+
+ .paragraph{
+   display: inline;
+   color:grey;
+ }
+ #first{
+   display: inline;
+   float:left;
+   width: 50%;
+ }
+ #second{
+   display: inline;
+   float:left;
+   width: 50%;
+ }
+ #par{
+   display: inline-block;
+   margin: 0 auto;
+
+ }
+ h1{
+   text-align: center;
+   margin: 0 auto;
+   color:grey;
+   font-family: sans-serif;
+   font-weight: normal;
+
+ }
+ #orangetxt{
+   color:orange;
+ }
+ #2ndpar{
+   margin: 0 auto;
+ }
+ a{
+   color:orange;
+   text-decoration: underline;
+ }
+ hr {
+   clear: both;
+   border: transparent;
+
+ }
+ h4{
+   color:orange;
+ }
+ #textpic p{
+   color:grey;
+   padding: 5px;
+
+ }
+ #textpic{
+   display:inline-block;;
+   margin: 0 auto;
+   text-align: center;
+
+
+
+ }
+ #firstone{
+
+   width: 33%;
+   float: left;
+
+
+ }
+  #secondone{
+
+    float: left;
+    padding: 2px;
+    width: 33%;
+    
+  }
+  #thirdone{
+
+    float: left;
+    width: 33%;
+  }
+  button{
+    background-color: orange;
+    margin: 0 auto;
+    border-radius: 400px;
+    border: 20px;
+  }
+footer{
+
+  height:300px;
+  background-color:black;
+
+}
+
+  footer a{
+    color: orange;
+    padding: 20px;
+
+
+  }
+  .footerone{
+display: inline;
+    text-decoration: none;
+    width: 25%;
+
+    float: left;
+
+  }
+  .footertwo{
+display: inline;
+    text-decoration: none;
+width: 25%;
+
+    float: left;
+
+  }
+  .footerthree{
+display: inline;
+    text-decoration: none;
+width: 25%;
+
+    float: left;
+
+  }
+  .social{
+    display: inline;
+text-decoration: none;
+width: 25%;
+
+    float: left;
+
+  }
+  .resize{
+    width:10px;
+    color: orange;
+
+  }
+  .footerf{
+    display: inline;
+    margin: 0 auto;
+
+
+    border: 10px;
+
+  }
+  h5{
+    color:#fff;
+  }
+  footer img{
+    color:orange;
+  }
+  /*footer section p{
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    bottom: 1px;
+  }*/
